@@ -1,0 +1,11 @@
+# Compiled C executable
+*.exe
+
+# Object files
+*.o
+
+# Debug files
+*.dSYM/
+
+# IDE files
+.vscode/
