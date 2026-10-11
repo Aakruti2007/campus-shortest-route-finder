@@ -1,6 +1,5 @@
 <div align="center">
 
-![Output](Output.png)
 
 </div>
 
